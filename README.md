@@ -8,20 +8,20 @@ This project applies data analytics and machine learning to build a predictive s
 
 OBJECTIVES
 
-•	To predict home loan eligibility based on applicant details.
-•	To automate and assist loan officers in the decision-making process.
-•	To identify key factors influencing loan approval.
-•	To improve accuracy compared to manual assessment.
+1. To predict home loan eligibility based on applicant details.
+2. To automate and assist loan officers in the decision-making process.
+3. To identify key factors influencing loan approval.
+4. To improve accuracy compared to manual assessment.
 
 DATASET
 
 We use a synthetic dataset containing applicant details and their final loan approval status (Approved / Not Approved).
 Features include:
-•	Applicant Information: Gender, Marital Status, Education, Dependents.
-•	Financial Status: Applicant Income, Co-applicant Income, Loan Amount, Loan Amount Term.
-•	Credit History: Past repayment record (0 = bad, 1 = good).
-•	Property Area: Rural, Semi-urban, Urban.
-•	Target Variable: Loan Status (Approved / Not Approved).
+1. Applicant Information: Gender, Marital Status, Education, Dependents.
+2. Financial Status: Applicant Income, Co-applicant Income, Loan Amount, Loan Amount Term.
+3. Credit History: Past repayment record (0 = bad, 1 = good).
+4. Property Area: Rural, Semi-urban, Urban.
+5. Target Variable: Loan Status (Approved / Not Approved).
 
 METHODS
 
